@@ -22,7 +22,7 @@ I'm a software developer with experience in JavaScript, Java, Python, Swift, C++
 
 ## &#x1f4c8; GitHub Stats
 
-![Jagtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHub&theme=blue-green&show_icons=true)
+![Jagtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagtarsingh7&theme=blue-green&show_icons=true)
 
 ## 🚀 Starred Projects
 
